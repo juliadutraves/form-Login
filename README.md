@@ -1,4 +1,4 @@
-# Indicie
+# Índice
 
 * [LOGIN](#login)
 * [Form](#descricao)
@@ -6,10 +6,10 @@
 * [Sites ultilizados](#sites-ultilizados)
 
 # LOGIN
-Site de login
+- Campo de e-mail e senha, site para fazer login.
 
 ## 🐙Descrição 
-Neste projeto construímos um uma página de login para se cadastrar. 
+- Neste projeto construímos um uma página de login para se cadastrar. 
 Projeto criado na aula de Desenvolvimento de Web.
 
 # 🐋Imagem do projeto 
