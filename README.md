@@ -1,7 +1,7 @@
 # Índice
 
 * [LOGIN](#login)
-* [Form](#descricao)
+* [Descrição](#descricao)
 * [Imagem do projeto](#imagem-do-projeto)
 * [Sites ultilizados](#sites-ultilizados)
 
